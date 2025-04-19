@@ -1,0 +1,4 @@
+Original Prompt File: llm_prompt_20250418_215746_341304.txt
+Suggested Action: fold (0)
+Confidence: high
+Reason: Weak hand with no potential to improve, opponent is all-in and likely has a stronger range. Continuing would be unprofitable.
